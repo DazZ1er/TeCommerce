@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TeCommerce/static/css/main.6f0cf784.css",
+    "main.js": "/TeCommerce/static/js/main.24c2143a.js",
+    "index.html": "/TeCommerce/index.html",
+    "main.6f0cf784.css.map": "/TeCommerce/static/css/main.6f0cf784.css.map",
+    "main.24c2143a.js.map": "/TeCommerce/static/js/main.24c2143a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0cf784.css",
+    "static/js/main.24c2143a.js"
+  ]
+}
