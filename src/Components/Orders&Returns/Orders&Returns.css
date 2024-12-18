@@ -1,0 +1,65 @@
+.orders-returns {
+  width: 65%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 100px;
+  padding: 0px 140px;
+  margin-bottom: 150px;
+  gap: 30px;
+}
+
+.orders-returns h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 50px;
+}
+
+.orders-returns section {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.orders-returns h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.orders-returns p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.orders-returns ul {
+  margin-left: 20px;
+  font-size: 16px;
+}
+
+.orders-returns strong {
+  font-weight: bold;
+}
+
+.orders-returns .contact-info {
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.orders-returns .contact-info h2 {
+  margin-bottom: 10px;
+}
+
+.orders-returns .contact-info p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.orders-returns .contact-address,
+.orders-returns .contact-phone {
+  width: 45%;
+}

@@ -1,0 +1,40 @@
+.contact {
+  width: 65%;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 100px;
+  padding: 0px 140px;
+  margin-bottom: 150px;
+  gap: 30px;
+}
+
+.contact h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 50px;
+}
+
+.contact-info {
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 280px;
+}
+
+.contact-info h2 {
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.contact-address,
+.contact-phone {
+  width: 45%;
+}

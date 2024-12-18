@@ -1,0 +1,44 @@
+.privacy-policy {
+  width: 65%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 100px;
+  padding: 0px 140px;
+  margin-bottom: 150px;
+  gap: 30px;
+}
+
+.privacy-policy h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 50px;
+}
+
+.privacy-policy section {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.privacy-policy h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.privacy-policy p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.privacy-policy ul {
+  margin-left: 20px;
+  font-size: 16px;
+}
+
+.privacy-policy strong {
+  font-weight: bold;
+}
